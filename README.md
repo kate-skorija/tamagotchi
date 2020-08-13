@@ -1,12 +1,12 @@
 # Tamagotchi
 
-#### Tamagotchi game
+#### Tamagotchi Game, Built for Epicodus 06.30.20
 
 #### By _**Evgeniya Chernaya, Mariel Hamson, Kate Skorija**_
 
 ## Description
 
-_Long deiscription._
+_This is a take on the tamagotchi game from the 90s, created to practice JavaScript and webpack._
 
 ### Specification
 | Behavior | Input | Output|
@@ -26,25 +26,18 @@ _Long deiscription._
 
 ## Setup/Installation Requirements
 
-* _Visit the following link: _
+* _Visit the following link: https://github.com/kate-skorija/tamagotchi.git
 * _Clone the repository to your desired directory._
-* _OR_
-* _Visit here: _
 
-
-## Known Bugs
-
-_ _
-## Support and contact details
-
-_Contact me at...._
 
 ## Technologies Used
 
-_Technology!_
+*  JavaScript
+*  webpack
+*  Jest
 
 ### License
 
 *GPL license distribution*
 
-Copyright (c) 2020 **_Your name(s)_**
+Copyright (c) 2020 **_Evgeniya Chernaya, Mariel Hamson, Kate Skorija_**
